@@ -80,7 +80,7 @@
 - 使用Xftp进行远程传输
 - Xftp可能存在中文乱码的情况
   - 解决办法——更改软件编码
-  - ![](C:\Users\86153\Desktop\Linux学习笔记\images\Snipaste_2022-02-20_12-03-54.png)
+  - ![](./images/Snipaste_2022-02-20_12-03-54.png)
 
 
 
